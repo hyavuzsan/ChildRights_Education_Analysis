@@ -1,0 +1,168 @@
+Country,Year,No_Education_Share,Cluster
+Albania,2020,1.0,1
+Algeria,2020,13.0,0
+Argentina,2020,2.0,1
+Armenia,2020,0.0,1
+Aruba,2020,5.0,1
+Australia,2020,0.0,1
+Austria,2020,0.0,1
+Azerbaijan,2020,1.0,1
+Bahamas,2020,1.0,1
+Bahrain,2020,5.0,1
+Bangladesh,2020,25.0,0
+Belarus,2020,0.0,1
+Belgium,2020,2.0,1
+Belize,2020,5.0,1
+Benin,2020,41.0,2
+Bhutan,2020,39.0,2
+Bolivia,2020,5.0,1
+Bosnia and Herzegovina,2020,4.0,1
+Brazil,2020,6.0,1
+Bulgaria,2020,1.0,1
+Burkina Faso,2020,64.0,2
+Burundi,2020,34.0,0
+Cambodia,2020,17.0,0
+Cameroon,2020,12.0,0
+Canada,2020,1.0,1
+Cape Verde,2020,9.0,1
+Central African Republic,2020,21.0,0
+Chad,2020,56.0,2
+Chile,2020,2.0,1
+China,2020,5.0,1
+Colombia,2020,5.0,1
+Comoros,2020,19.0,0
+Congo,2020,4.0,1
+Costa Rica,2020,2.0,1
+Cote d'Ivoire,2020,35.0,0
+Croatia,2020,1.0,1
+Cuba,2020,1.0,1
+Cyprus,2020,0.0,1
+Czechia,2020,0.0,1
+Democratic Republic of Congo,2020,10.0,1
+Denmark,2020,0.0,1
+Dominican Republic,2020,1.0,1
+East Timor,2020,21.0,0
+Ecuador,2020,5.0,1
+Egypt,2020,23.0,0
+El Salvador,2020,12.0,0
+Equatorial Guinea,2020,6.0,1
+Estonia,2020,0.0,1
+Eswatini,2020,6.0,1
+Ethiopia,2020,38.0,2
+Finland,2020,0.0,1
+France,2020,1.0,1
+French Polynesia,2020,2.0,1
+Gabon,2020,5.0,1
+Gambia,2020,31.0,0
+Georgia,2020,0.0,1
+Germany,2020,1.0,1
+Ghana,2020,29.0,0
+Greece,2020,1.0,1
+Guatemala,2020,19.0,0
+Guinea,2020,58.0,2
+Guinea-Bissau,2020,41.0,2
+Guyana,2020,2.0,1
+Haiti,2020,16.0,0
+Honduras,2020,11.0,1
+Hong Kong,2020,3.0,1
+Hungary,2020,0.0,1
+Iceland,2020,0.0,1
+India,2020,27.000002,0
+Indonesia,2020,5.0,1
+Iran,2020,12.0,0
+Iraq,2020,10.0,1
+Ireland,2020,0.0,1
+Israel,2020,1.0,1
+Italy,2020,1.0,1
+Jamaica,2020,1.0,1
+Japan,2020,0.0,1
+Jordan,2020,6.0,1
+Kazakhstan,2020,0.0,1
+Kenya,2020,6.0,1
+Kuwait,2020,8.0,1
+Kyrgyzstan,2020,0.0,1
+Laos,2020,17.0,0
+Latvia,2020,0.0,1
+Lebanon,2020,5.0,1
+Lesotho,2020,6.0,1
+Liberia,2020,65.0,2
+Lithuania,2020,0.0,1
+Luxembourg,2020,4.0,1
+Macao,2020,2.0,1
+Madagascar,2020,19.0,0
+Malawi,2020,18.0,0
+Malaysia,2020,5.0,1
+Maldives,2020,10.0,1
+Mali,2020,70.0,2
+Malta,2020,0.0,1
+Mauritius,2020,4.0,1
+Mexico,2020,5.0,1
+Moldova,2020,0.0,1
+Mongolia,2020,1.0,1
+Montenegro,2020,1.0,1
+Morocco,2020,34.0,0
+Mozambique,2020,54.000004,2
+Myanmar,2020,6.0,1
+Namibia,2020,7.0,1
+Nepal,2020,33.0,0
+Netherlands,2020,3.0,1
+New Caledonia,2020,3.0,1
+New Zealand,2020,0.0,1
+Nicaragua,2020,15.000001,0
+Niger,2020,67.0,2
+Nigeria,2020,23.0,0
+North Macedonia,2020,2.0,1
+Norway,2020,0.0,1
+Pakistan,2020,43.0,2
+Palestine,2020,5.0,1
+Panama,2020,4.0,1
+Paraguay,2020,3.0,1
+Peru,2020,4.0,1
+Philippines,2020,1.0,1
+Poland,2020,0.0,1
+Portugal,2020,3.0,1
+Puerto Rico,2020,2.0,1
+Qatar,2020,3.0,1
+Romania,2020,1.0,1
+Russia,2020,0.0,1
+Rwanda,2020,20.0,0
+Saint Lucia,2020,1.0,1
+Saint Vincent and the Grenadines,2020,1.0,1
+Samoa,2020,0.0,1
+Sao Tome and Principe,2020,7.0,1
+Saudi Arabia,2020,8.0,1
+Senegal,2020,47.0,2
+Serbia,2020,1.0,1
+Sierra Leone,2020,49.0,2
+Singapore,2020,3.0,1
+Slovakia,2020,0.0,1
+Slovenia,2020,0.0,1
+Somalia,2020,43.0,2
+South Africa,2020,4.0,1
+South Korea,2020,2.0,1
+Spain,2020,1.0,1
+Sudan,2020,50.0,2
+Suriname,2020,0.0,1
+Sweden,2020,0.0,1
+Switzerland,2020,0.0,1
+Syria,2020,12.0,0
+Tajikistan,2020,2.0,1
+Tanzania,2020,12.0,0
+Thailand,2020,3.0,1
+Tonga,2020,1.0,1
+Trinidad and Tobago,2020,1.0,1
+Tunisia,2020,16.0,0
+Turkey,2020,5.0,1
+Turkmenistan,2020,0.0,1
+Uganda,2020,15.000001,0
+Ukraine,2020,0.0,1
+United Arab Emirates,2020,6.0,1
+United Kingdom,2020,1.0,1
+United States,2020,0.0,1
+Uruguay,2020,1.0,1
+Vanuatu,2020,11.0,1
+Venezuela,2020,3.0,1
+Vietnam,2020,5.0,1
+World,2020,13.0,0
+Zambia,2020,5.0,1
+Zimbabwe,2020,3.0,1
